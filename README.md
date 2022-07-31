@@ -1,3 +1,3 @@
 # Emotion_Detection
-## Used fer2013 dataset to train the Emotion detector
-## Used opencv library to classify emotions of the faces live
+## fer2013 dataset has been used to train the Emotion detector
+## opencv library has been used to classify emotions of faces
